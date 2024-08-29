@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaasyapriyaDhanyamraju
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT WITH NXT WAVE 
+- 🌱 I’m currently learning FULL STACK DEVELOPMENT and Cloud Technologies
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me dlpriya.1398@gmail
 - 😄 Pronouns
